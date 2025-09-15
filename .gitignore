@@ -25,3 +25,8 @@ package-lock.json
 # Misc
 _sass/vendors
 assets/js/dist
+
+# Ignore Windows Zone.Identifier metadata streams
+*:[Zz]one.Identifier
+*.DS_Store
+Thumbs.db
