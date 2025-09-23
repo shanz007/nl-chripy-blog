@@ -8,7 +8,7 @@ order: 4
 
 Welcome to my corner of the web! This is where I share personal reflections, tech experiments, and thoughts that don’t always fit into the more polished, professional side of my portfolio. 
 
-Think of this space as my **open diary + playground** for ideas.  
+Think of this space as my **open diary + playground** for ideas. For my professional work, please visit [portfolio](https://shanz007.github.io/).
 
 My journey into technology began with a gentle push from my father. Right after finishing school, he encouraged me to pursue a Bachelor’s in IT as my first step into higher education. I owe him so much for planting that seed, it was his belief that set me on this path.
 
