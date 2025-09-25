@@ -48,7 +48,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: "18.19.1"  # Use the version you prefer
+          node-version: "20.19.5"  # Use the version you prefer
 
       - name: Install markdownlint-cli
         run: npm install -g markdownlint-cli
